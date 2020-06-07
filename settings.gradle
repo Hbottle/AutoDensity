@@ -1,0 +1,3 @@
+rootProject.name='AutoDensity'
+include ':app'
+include ':core'
